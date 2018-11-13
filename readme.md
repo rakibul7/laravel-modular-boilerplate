@@ -10,7 +10,7 @@ Please follow the below steps to setup the application
 - Clone the repository 
 
 ```bash
-git clone http://github.com/kamranahmedse/laravel-modular-boilerplate
+git clone https://github.com/rakibul7/laravel-modular-boilerplate
 ```
 
 - Install dependencies via composer
